@@ -1,0 +1,9 @@
+COLUMNS:
+  Address: object
+  Bedrooms: object
+  Bathrooms: object
+  Area: object
+  Property Type: object
+
+TARGET_COLUMN:
+  Price: object
