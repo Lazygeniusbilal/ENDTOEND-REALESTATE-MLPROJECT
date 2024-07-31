@@ -1,0 +1,986 @@
+Address,Price,Bathrooms,Bedrooms,Area,Property Type
+"Bahria Town - Sector F, Lahore",1.6 Crore,0,0,400 sqft,commercial
+"Bahria Enclave, Sector A, Islamabad",11.1 Crore,10+,6,4 marla,commercial
+"Bahria Town - Sector E , Lahore",1.95 Crore,4,4,5 marla,residential
+"DHA Phase 2, Islamabad",9.75 Crore,5,5,1 kanal,residential
+"Bahria Town - Sector E , Lahore",65 Lac,1,1,395 sqft,residential
+"Bahria Town Phase 8, Rawalpindi",1.7 Crore,0,0,515 sqft,commercial
+"Bahria Town - Sector D, Lahore",4.9 Crore,4,4,10 marla,residential
+"Bahria Town Phase 8, Block Umer, Rawalpindi",2.9 Crore,4,5,7 marla,residential
+"Adyala Road, Rawalpindi",38 Lac,0,0,72 sqft,commercial
+"Bahria Town Phase 7, Rawalpindi",2.04 Crore,0,1,730 sqft,commercial
+"Bahria Town, Islamabad",1.1 Crore,0,0,438 sqft,commercial
+"Bahria Town - Sector B, Lahore",1.96 Crore,4,4,5 marla,residential
+"DHA Phase 2, Islamabad",5.89 Crore,0,0,693 sqft,commercial
+"Qartaba Chowk, Lahore",55 Lac,2,2,3.5 marla,residential
+"DHA Phase 2, Lahore",7.3 Crore,5,5,1 kanal,residential
+"Bahria Town Phase 4, Islamabad",65 Lac,1,1,514 sqft,residential
+"Phase 8, Bahria Town, Sector A, , Rawalpindi",4.6 Crore,5,6,10 marla,residential
+"PIA Main Boulevard, Lahore",6.5 Crore,0,0,6 marla,commercial
+"Faisal Margalla City, Islamabad",49 Lac,0,0,164 sqft,commercial
+"DHA Homes, Islamabad",78 Lac,2,2,5 marla,residential
+"Bahria Town Phase 8, Rawalpindi",1.62 Crore,0,0,510 sqft,commercial
+"Bahria Town Phase 7, Rawalpindi",4 Crore,0,0,1280 sqft,commercial
+"Bahria Town Phase 7, Rawalpindi",15.5 Crore,5,5,25 marla,residential
+"Bahria Town Phase 8, Rawalpindi",2.9 Crore,5,5,7 marla,residential
+"Bahria Town Phase 8, Rawalpindi",95 Lac,0,0,410 sqft,commercial
+"Soan Garden, Block H, Islamabad",40 Lac,0,0,180 sqft,commercial
+"Bahria Town Phase 8, Rawalpindi",2.15 Crore,3,3,5 marla,residential
+"DHA Phase 2, Islamabad",11 Crore,5,5,1 kanal,residential
+"DHA Phase 2, Islamabad",6 Crore,5,5,10 marla,residential
+"DHA Phase 2, Islamabad",6.5 Crore,5,5,10 marla,residential
+"Bahria Town Phase 8, Rawalpindi",2.75 Crore,5,5,7 marla,residential
+"Bahria Town Phase 8, Block Rafi, Rawalpindi",3.6 Crore,4,5,8 marla,residential
+"DHA Phase 2, Islamabad",9.5 Crore,5,5,1 kanal,residential
+"Bahria Enclave, Islamabad",2.5 Crore,3,3,5 marla,residential
+"Jubilee Town, Lahore",2.2 Crore,4,4,5 marla,residential
+"DHA Phase 3, Islamabad",2.3 Crore,3,4,5 marla,residential
+"CBR Town, Islamabad",3.6 Crore,6,6,7 marla,residential
+"DHA Phase 3, Islamabad",4.7 Crore,5,6,10 marla,residential
+"Adyala Road, Rawalpindi",45 Lac,0,0,80 sqft,commercial
+"DHA Phase 8, Lahore",3.17 Crore,4,5,5 marla,residential
+"DHA Phase 1, Sector F, Rawalpindi",4.25 Crore,0,0,1800 sqft,commercial
+"Bahria Town Phase 4, Islamabad",78 Lac,0,0,200 sqft,commercial
+"Bahria Town Phase 8 Lakeview block, Rawalpindi",4.7 Crore,5,6,10 marla,residential
+"Adyala Road, Rawalpindi",70 Lac,0,0,138 sqft,commercial
+"DHA Phase 1, Lahore",12 Crore,0,0,4 marla,commercial
+"DHA Phase 6, Lahore",10 Lac,0,0,450 sqft,commercial
+"DHA Phase 2, Islamabad",5.85 Crore,0,0,693 sqft,commercial
+"DHA Phase 2, Islamabad",1.19 Crore,0,0,222 sqft,commercial
+"DHA Phase 5, Lahore",16.25 Crore,0,0,4 marla,commercial
+"Bahria Town - Sector E , Lahore",1.7 Crore,0,0,390 sqft,commercial
+"Bahria Town Phase 4, Islamabad",5.5 Crore,5,6,10 marla,residential
+"DHA Phase 6, Lahore",12.85 Crore,4,4,1 kanal,residential
+"Chakri Road, Rawalpindi",6.75 Crore,0,0,6 marla,commercial
+"G-13/2, Islamabad",9.25 Crore,7,8,10 marla,residential
+"Bahria Town Phase 8, Block Rafi, Rawalpindi",4 Crore,4,5,8 marla,residential
+"Band Road, Lahore",20 Crore,10+,10+,5 kanal,commercial
+"Phase 8, Bahria Town, Sector M, Rawalpindi",2.4 Crore,4,5,8 marla,residential
+"DHA Phase 8, Lahore",23.95 Crore,6,7,2 kanal,residential
+"LDA Avenue Phase 1, Lahore",3.9 Crore,5,6,10 marla,residential
+"Bahria Town Phase 8, Rawalpindi",2.85 Crore,5,5,7 marla,residential
+"DHA Phase 2, Islamabad",10.5 Crore,5,5,1 kanal,residential
+"Bahria Town Phase 8, Rawalpindi",2.2 Crore,3,3,5 marla,residential
+"DHA Phase 2, Lahore",7.5 Crore,4,5,1 kanal,residential
+"Bahria Town Phase 8, Sector J, Rawalpindi",3.8 Crore,5,6,10 marla,residential
+"DHA Phase 2, Islamabad",9.5 Crore,0,0,1986 sqft,commercial
+"Sanda Road, Lahore",70 Lac,0,0,0.5 marla,commercial
+"Bahria Town Phase 8, Rawalpindi",2.15 Crore,3,3,5 marla,residential
+"Adyala Road, Rawalpindi",52 Lac,0,0,117 sqft,commercial
+"Bahria Town Phase 7, Rawalpindi",4.1 Crore,0,0,1280 sqft,commercial
+"Samanabad, Lahore",16.1 Crore,10+,9,23 marla,commercial
+"DHA Homes, Islamabad",1.64 Crore,3,3,8 marla,residential
+"Bahria Enclave, Sector B1, Islamabad",2.85 Crore,3,3,5 marla,residential
+"Jubilee Town, Lahore",2.3 Crore,4,4,5 marla,residential
+"Bahria Town Phase 8, Rawalpindi",4.5 Crore,5,5,10 marla,residential
+"Bahria Town Phase 8, Rawalpindi",1.68 Crore,0,0,510 sqft,commercial
+"Jubilee Town, Lahore",75 Lac,2,2,1000 sqft,residential
+"G-9, Islamabad",9 Crore,4,4,360 sqyd,commercial
+"DHA Homes, Islamabad",1.75 Crore,3,3,8 marla,residential
+"Bahria Town Phase 7, Rawalpindi",4.7 Crore,5,6,10 marla,residential
+"Gulberg 3, Lahore",40 Lac,1,1,133 sqft,commercial
+"Bahria Town - Sector D, Lahore",4.95 Crore,4,5,10 marla,residential
+"Bahria Town - Sector D, Lahore",1.85 Crore,3,4,5 marla,residential
+"DHA Phase 6, Lahore",20 Lac,0,0,4 marla,commercial
+"Bahria Town Phase 8, Rawalpindi",2.9 Crore,5,5,7 marla,residential
+"Bahria Town Phase 8, Rawalpindi",3.1 Crore,5,5,7 marla,residential
+"Jubilee Town, Lahore",80 Lac,2,2,600 sqft,residential
+"DHA Phase 2, Islamabad",10 Crore,5,5,1 kanal,residential
+"Bahria Town Phase 8, Rawalpindi",1.05 Crore,0,0,480 sqft,commercial
+"DHA Phase 2, Islamabad",9.5 Crore,5,5,1 kanal,residential
+"DHA Phase 7, Lahore",3.1 Crore,4,5,5 marla,residential
+"DHA Town Phase 9, Lahore",5.97 Crore,5,6,10 marla,residential
+"Bahria Town - Sector B, Lahore",1.95 Crore,3,4,5 marla,residential
+"Bani Gala, Islamabad",3.5 Crore,5,5,10 marla,residential
+"Jubilee Town, Lahore",60 Lac,2,2,700 sqft,residential
+"DHA Homes, Islamabad",1.73 Crore,3,3,8 marla,residential
+"Bahria Town Phase 8, Rawalpindi",95 Lac,0,0,410 sqft,commercial
+"Askari 11, Lahore",2.9 Crore,3,3,2250 sqft,residential
+"Bahria Town Phase 8, Sector H, Rawalpindi",4.2 Crore,5,6,10 marla,residential
+"Bahria Town Phase 8, Sector H, Rawalpindi",4.1 Crore,5,6,10 marla,residential
+"Bahria Town Phase 7, Rawalpindi",9.3 Crore,6,7,20 marla,residential
+"Bahria Town Phase 4, Islamabad",4.8 Crore,5,5,10 marla,residential
+"Bahria Town Phase 8, Block Rafi, Rawalpindi",3.7 Crore,4,5,8 marla,residential
+"CBR Town, Islamabad",6.5 Crore,6,6,12 marla,residential
+"DHA Homes, Islamabad",1.72 Crore,3,3,8 marla,residential
+"Jubilee Town, Lahore",75 Lac,2,2,1000 sqft,residential
+"Bahria Town Phase 8, Rawalpindi",12.5 Crore,0,0,6 marla,commercial
+"DHA Homes, Islamabad",1.74 Crore,3,3,8 marla,residential
+"Johar Town, Lahore",2.5 Crore,5,5,5 marla,residential
+"Johar Town, Lahore",2.8 Crore,5,5,5 marla,residential
+"DHA Homes, Islamabad",1.7 Crore,3,3,8 marla,residential
+"Bahria Town Phase 7, Rawalpindi",45 Lac,0,0,150 sqft,commercial
+"Lehtrar Road, Islamabad",1.5 Crore,4,4,5 marla,residential
+"Jubilee Town, Lahore",75 Lac,2,2,1000 sqft,residential
+"Bhara Kahu, Islamabad",21 Lac,0,0,700 sqft,commercial
+"DHA Phase 7, Lahore",3.19 Crore,4,5,5 marla,residential
+"Wapda Town Phase 1, Lahore",2.65 Crore,5,5,5 marla,residential
+"Bahria Town Phase 7, Rawalpindi",5 Crore,5,6,10 marla,residential
+"Gulberg 3, Lahore",35 Crore,0,0,1 kanal,commercial
+"Adyala Road, Rawalpindi",62 Lac,0,0,124 sqft,commercial
+"DHA Phase 6, Lahore",10 Crore,4,4,1 kanal,residential
+"Bahria Town Phase 7, Rawalpindi",1 Crore,0,0,337 sqft,commercial
+"Wapda Town Phase 1, Lahore",4.6 Crore,5,5,10 marla,residential
+"Multi Gardens, B-17, Block-C, Islamabad",90 Lac,0,0,430 sqft,commercial
+"Adyala Road, Rawalpindi",95 Lac,2,2,5 marla,residential
+"Bahria Town Phase 8-Khalid Block, Rawalpindi",4.25 Crore,5,6,10 marla,residential
+"Bahria Town Phase 8, Block Ali, Rawalpindi",2.55 Crore,4,5,7 marla,residential
+"Adyala Road, Rawalpindi",28 Lac,0,0,56 sqft,commercial
+"Johar Town, Lahore",5.9 Crore,5,5,1 kanal,residential
+"Bahria Town - Sector E , Lahore",4.75 Crore,4,5,10 marla,residential
+"Bahria Town - Sector E , Lahore",1.6 Crore,0,0,400 sqft,commercial
+"Bahria Town Phase 8, Sector J, Rawalpindi",3.7 Crore,5,6,10 marla,residential
+"Bani Gala, Islamabad",2.8 Crore,3,3,5 marla,residential
+"Adyala Road, Rawalpindi",34 Lac,0,0,56 sqft,commercial
+"Paragon City - Commercial Broadway, Lahore",5 Crore,0,5,4 marla,commercial
+"DHA Phase 3, Islamabad",5 Crore,5,6,10 marla,residential
+"Bahria Town Phase 8, Rawalpindi",3.1 Crore,5,5,7 marla,residential
+"Bahria Enclave, Sector N, Islamabad",4.85 Crore,4,4,10 marla,residential
+"Murree Road, Rawalpindi",3.3 Crore,0,0,132 sqft,commercial
+"Bahria Town Phase 8, Rawalpindi",4.35 Crore,5,5,10 marla,residential
+"Bahria Town Phase 7, Rawalpindi",1.9 Crore,0,0,1010 sqft,commercial
+"Adyala Road, Rawalpindi",1.8 Crore,0,0,210 sqft,commercial
+"Defence Villas, Rawalpindi",3.85 Crore,3,4,11 marla,residential
+"Bahria Town - Sector F, Lahore",1.55 Crore,0,0,385 sqft,commercial
+"DHA Phase 2, Sector-F, Islamabad",55 Lac,0,0,300 sqft,commercial
+"E-16, Islamabad",29 Lac,0,0,144 sqft,commercial
+"Bahria Town Phase 7, Rawalpindi",3.25 Crore,0,2,1122 sqft,commercial
+"Peshawar Road, Rawalpindi",3.2 Crore,4,4,7 marla,residential
+"DHA Phase 3, Islamabad",5.5 Crore,5,6,10 marla,residential
+"DHA Phase 2, Islamabad",9.85 Crore,5,5,1 kanal,residential
+"DHA Town Phase 9, Lahore",2.93 Crore,3,4,5 marla,residential
+"Phase 8, Bahria Town, Sector A, , Rawalpindi",4.7 Crore,5,6,10 marla,residential
+"Park View City, Lahore",1.75 Crore,4,4,5 marla,residential
+"Bahria Town Phase 8, Rawalpindi",2 Crore,3,3,5 marla,residential
+"Bahria Town Phase 8, Rawalpindi",4.25 Crore,5,5,10 marla,residential
+"Lahore Cantt, Lahore",6 Crore,2,3,1900 sqft,commercial
+"Bahria Town Phase 8, Rawalpindi",60 Lac,0,0,410 sqft,commercial
+"Bani Gala, Islamabad",3.5 Crore,8,7,10 marla,residential
+"Bahria Town - Sector E , Lahore",1.95 Crore,3,4,5 marla,residential
+"Bahria Town Phase 8, Rawalpindi",2.8 Crore,5,5,7 marla,residential
+"Bahria Enclave, Islamabad",2.1 Crore,3,2,5 marla,residential
+"DHA Phase 2, Islamabad",9.85 Crore,5,5,1 kanal,residential
+"LDA Avenue Phase 1, Lahore",5.9 Crore,5,6,1 kanal,residential
+"Murree Expressway, Islamabad",1.72 Crore,0,0,384 sqft,commercial
+"DHA Phase 2, Islamabad",9 Crore,5,5,1 kanal,residential
+"Girja Road, Rawalpindi",3.05 Crore,0,0,7 marla,commercial
+"Adyala Road, Rawalpindi",1.26 Crore,0,0,5 marla,commercial
+"Bahria Town Phase 8, Rawalpindi",72 Lac,0,0,510 sqft,commercial
+"Bahria Town - Sector B, Lahore",1.8 Crore,3,4,5 marla,residential
+"Bahria Town Phase 8, Rawalpindi",2.8 Crore,5,5,7 marla,residential
+"Jubilee Town, Lahore",60 Lac,1,1,520 sqft,residential
+"Bahria Town Phase 8, Rawalpindi",3.2 Crore,5,5,7 marla,residential
+"Bahria Enclave, Islamabad",4.5 Crore,4,4,10 marla,residential
+"Johar Town Phase 2 - Block M, Lahore",4 Crore,3,4,7 marla,residential
+"Bahria Town Phase 8, Rawalpindi",4.2 Crore,5,5,10 marla,residential
+"DHA Phase 2, Islamabad",8 Crore,5,5,1 kanal,residential
+"Park View City, Lahore",12.5 Crore,0,0,8 marla,commercial
+"F-8 Markaz, Islamabad",2.1 Crore,0,0,350 sqft,commercial
+"Bahria Enclave, Islamabad",95 Lac,0,0,250 sqft,commercial
+"Wapda Town Phase 1, Lahore",4.35 Crore,5,5,10 marla,residential
+"Bahria Town - Sector D, Lahore",1.45 Crore,0,0,375 sqft,commercial
+"Bahria Town Phase 8, Rawalpindi",2.9 Crore,5,5,7 marla,residential
+"Bahria Town Phase 8, Rawalpindi",2.9 Crore,5,5,7 marla,residential
+"Adyala Road, Rawalpindi",60 Lac,0,0,117 sqft,commercial
+"Adyala Road, Rawalpindi",65 Lac,0,0,146.75 sqft,commercial
+"Bahria Town Phase 8, Rawalpindi",2.95 Crore,5,5,7 marla,residential
+"DHA Phase 2, Islamabad",5.8 Crore,5,5,10 marla,residential
+"Gulberg 2, Lahore",1.9 Crore,1,1,183 sqft,commercial
+"Bahria Town Phase 7, Rawalpindi",9.25 Crore,6,7,20 marla,residential
+"Bahria Town Phase 8, Rawalpindi",2.7 Crore,5,5,7 marla,residential
+"DHA Phase 2, Islamabad",9 Crore,5,5,1 kanal,residential
+"Bahria Town Phase 8, Rawalpindi",3.3 Crore,5,5,7 marla,residential
+"Bahria Enclave, Islamabad",70 Lac,0,0,491 sqft,commercial
+"Anarkali, Lahore",3.5 Crore,0,0,96 sqft,commercial
+"Bahria Town Phase 8, Sector C, Rawalpindi",4.9 Crore,5,6,10 marla,residential
+"F-7, Islamabad",1.15 Arab,0,4,16 marla,commercial
+"Phase 8, Bahria Town, Sector G, Rawalpindi",3.9 Crore,5,6,10 marla,residential
+"DHA Phase 3, Islamabad",5.2 Crore,5,6,10 marla,residential
+"DHA Phase 2, Islamabad",10 Crore,5,5,1 kanal,residential
+"DHA Homes, Islamabad",75 Lac,2,2,5 marla,residential
+"Bahria Town Phase 7, Rawalpindi",80 Lac,0,0,380 sqft,commercial
+"Anarkali, Lahore",1 Crore,0,0,500 sqft,commercial
+"Phase 8, Bahria Town, Sector M, Rawalpindi",2.3 Crore,4,4,8 marla,residential
+"Bahria Town Phase 8, Rawalpindi",2.5 Crore,5,5,7 marla,residential
+"TopCity-1 , Islamabad",40 Lac,Studio,1,520 sqft,commercial
+"Airport Housing Society, Sector 4, Rawalpindi",3 Crore,6,6,8 marla,residential
+"Bani Gala, Islamabad",1.6 Crore,3,3,5 marla,residential
+"Airport Housing Society, Sector 4, Rawalpindi",1.2 Crore,3,3,5 marla,residential
+"Faisal Margalla City, Islamabad",61 Lac,0,0,179 sqft,commercial
+"Adyala Road, Rawalpindi",62 Lac,0,0,122 sqft,commercial
+"Faisal Margalla City, Islamabad",49 Lac,0,0,170 sqft,commercial
+"Bahria Town - Sector E , Lahore",1.96 Crore,4,5,5 marla,residential
+"Gulshan Abad, Rawalpindi",1.7 Crore,3,3,10 marla,residential
+"Adyala Road, Rawalpindi",85 Lac,0,0,99 sqft,commercial
+"G-7, Islamabad",65 Crore,0,0,7 marla,commercial
+"Phase 8, Bahria Town, Sector A, , Rawalpindi",4.8 Crore,5,6,10 marla,residential
+"Adyala Road, Rawalpindi",52 Lac,0,0,92 sqft,commercial
+"Bahria Town Phase 4, Islamabad",4 Crore,5,6,10 marla,residential
+"Adyala Road, Rawalpindi",45 Lac,0,0,89 sqft,commercial
+"Green Villas, Rawalpindi",3 Crore,6,6,10 marla,residential
+"DHA Phase 2, Islamabad",8.5 Crore,5,5,1 kanal,residential
+"Ghauri Town Phase 4-A, Islamabad",3.44 Crore,0,0,430 sqft,commercial
+"Phase 8, Bahria Town, Sector A, , Rawalpindi",4.75 Crore,5,6,10 marla,residential
+"LDA Avenue Phase 1, Lahore",3.25 Crore,5,6,10 marla,residential
+"DHA Phase 5, Lahore",16.25 Crore,0,0,4 marla,commercial
+"Adyala Road, Rawalpindi",78 Lac,0,0,1.25 marla,commercial
+"Jail Road, Lahore",2.44 Crore,Studio,1,813 sqft,commercial
+"Soan Garden, Islamabad",3.7 Crore,5,6,10 marla,residential
+"DHA Phase 2, Islamabad",8.3 Crore,5,5,1 kanal,residential
+"Bahria Town - Sector E , Lahore",45000,1,1,400 sqft,residential
+"Bahria Town Phase 8, Rawalpindi",8.5 Crore,5,5,1 kanal,residential
+"Samarzar Housing Society, Rawalpindi",65 Lac,2,2,4 marla,residential
+"Johar Town, Lahore",2.5 Crore,5,5,5 marla,residential
+"Adyala Road, Rawalpindi",36 Lac,0,0,68 sqft,commercial
+"Adyala Road, Rawalpindi",90 Lac,0,0,103 sqft,commercial
+"Adyala Road, Rawalpindi",58 Lac,0,0,130 sqft,commercial
+"DHA Phase 4, Lahore",6.7 Crore,5,5,1 kanal,residential
+"Bani Gala, Islamabad",3.5 Crore,6,6,10 marla,residential
+"Bahria Town Phase 8, Rawalpindi",3.8 Crore,5,5,10 marla,residential
+"Bahria Town - Sector A, Lahore",4.85 Crore,4,5,10 marla,residential
+"Gulberg, Lahore",27 Crore,0,0,11 marla,commercial
+"DHA Phase 8, Lahore",5.97 Crore,5,6,10 marla,residential
+"Bahria Town Phase 8, Rawalpindi",1.65 Crore,0,0,510 sqft,commercial
+"Bahria Town Phase 8-Khalid Block, Rawalpindi",4.15 Crore,5,6,10 marla,residential
+"Wapda Town Phase 1, Lahore",2.35 Crore,5,5,5 marla,residential
+"Bahria Town Phase 8, Sector H, Rawalpindi",4.25 Crore,5,6,10 marla,residential
+"Bahria Enclave, Sector B1, Islamabad",2.2 Crore,3,3,5 marla,residential
+"DHA Phase 1, Lahore",1.5 Lac,2,3,1 kanal,residential
+"DHA Phase 2, Islamabad",10.5 Crore,5,5,1 kanal,residential
+"Mall Road, Lahore",4 Crore,0,0,2 marla,commercial
+"Bahria Town Phase 7, Rawalpindi",9 Crore,6,7,20 marla,residential
+"Bahria Town Phase 8, Rawalpindi",2.75 Crore,5,5,7 marla,residential
+"Park View City, Lahore",2 Crore,4,5,5 marla,residential
+"Adyala Road, Rawalpindi",30 Lac,0,0,56 sqft,commercial
+"Airport Housing Society, Sector 4, Rawalpindi",3.1 Crore,6,6,8 marla,residential
+"Multi Gardens, B-17, Block-C, Islamabad",71.3 Lac,0,0,155 sqft,commercial
+"Bahria Town Phase 8, Rawalpindi",2.95 Crore,5,5,7 marla,residential
+"Bahria Town Phase 8 Lakeview block, Rawalpindi",4.6 Crore,5,6,10 marla,residential
+"Bahria Town Phase 7, Rawalpindi",1.85 Crore,0,0,1010 sqft,commercial
+"Bahria Town - Sector E , Lahore",4.85 Crore,4,4,10 marla,residential
+"New Super Town, Lahore",25 Crore,0,0,12 marla,commercial
+"Bahria Town - Sector E , Lahore",1.98 Crore,4,4,5 marla,residential
+"DHA Homes, Islamabad",1.6 Crore,3,3,8 marla,residential
+"Snober City, Rawalpindi",1.25 Crore,3,3,5 marla,residential
+"DHA Homes, Islamabad",1.64 Crore,3,3,8 marla,residential
+"LDA Avenue Phase 1, Lahore",3.9 Crore,5,6,10 marla,residential
+"DHA Phase 2, Islamabad",9 Crore,5,5,1 kanal,residential
+"G-15/2, Islamabad",38.5 Lac,0,0,220 sqft,commercial
+"I-14, Islamabad",2.7 Crore,3,4,4 marla,residential
+"Jubilee Town, Lahore",60 Lac,1,1,520 sqft,residential
+"DHA Homes, Islamabad",1.67 Crore,3,3,8 marla,residential
+"Bahria Town Phase 8, Rawalpindi",3.1 Crore,5,5,7 marla,residential
+"Bahria Town Phase 5, Islamabad",4.3 Crore,5,6,10 marla,residential
+"Wapda Town Phase 1, Lahore",2.25 Crore,5,5,5 marla,residential
+"Bahria Town Phase 8, Block Rafi, Rawalpindi",1.75 Crore,3,4,5 marla,residential
+"Bahria Town Phase 8, Block D , Rawalpindi",4.3 Crore,5,6,10 marla,residential
+"Adyala Road, Rawalpindi",53 Lac,0,0,105 sqft,commercial
+"Bahria Town Phase 7, Rawalpindi",45 Lac,0,0,120 sqft,commercial
+"DHA Phase 2, Sector-J, Islamabad",6.5 Crore,5,6,10 marla,residential
+"Bahria Enclave, Islamabad",2.5 Crore,3,3,5 marla,residential
+"Jubilee Town, Lahore",75 Lac,2,2,1000 sqft,residential
+"Anarkali, Lahore",6.5 Crore,8,2,9 marla,commercial
+"Bahria Town Phase 7, Rawalpindi",9.5 Crore,6,7,20 marla,residential
+"LDA Avenue Phase 1, Lahore",3.9 Crore,5,6,10 marla,residential
+"Jubilee Town, Lahore",2.3 Crore,4,4,5 marla,residential
+"Pir Sohawa Road, Islamabad",70 Crore,0,0,100 kanal,commercial
+"Faisal Margalla City, Islamabad",49 Lac,0,0,149 sqft,commercial
+"Bahria Town Phase 2, Islamabad",12.5 Crore,5,6,1 kanal,residential
+"DHA Phase 6, Lahore",16.5 Crore,4,4,1 kanal,residential
+"Bahria Town - Sector D, Lahore",1.9 Crore,3,4,5 marla,residential
+"Bahria Enclave, Sector A, Islamabad",7.9 Crore,0,0,4 marla,commercial
+"Bahria Town Phase 8, Rawalpindi",3.6 Crore,5,5,7 marla,residential
+"Bhara Kahu, Islamabad",2.3 Crore,4,4,7 marla,residential
+"Bahria Enclave, Sector B1, Islamabad",2.35 Crore,0,0,4 marla,commercial
+"I-14, Islamabad",2.3 Crore,5,6,5 marla,residential
+"DHA Phase 2, Islamabad",10 Crore,5,5,1 kanal,residential
+"Bahria Town Phase 8, Rawalpindi",58 Lac,0,0,410 sqft,commercial
+"Gulberg, Lahore",85 Lac,0,1,250 sqft,commercial
+"G-13/2, Islamabad",9.25 Crore,7,8,10.88 marla,residential
+"Adyala Road, Rawalpindi",37 Lac,0,0,70 sqft,commercial
+"E-11/4, Islamabad",80 Lac,1,1,380 sqft,residential
+"Bahria Town Phase 8, Block Rafi, Rawalpindi",1.8 Crore,3,4,5 marla,residential
+"Bahria Town - Sector E , Lahore",1.95 Crore,4,4,5 marla,residential
+"Samanabad, Lahore",7.5 Crore,0,0,7 marla,commercial
+"Bahria Town Phase 4, Islamabad",4.45 Crore,5,6,10 marla,residential
+"Bahria Town - Sector E , Lahore",1.9 Crore,3,4,5 marla,residential
+"DHA Phase 1, Lahore",6.5 Crore,5,5,21 marla,residential
+"DHA Phase 2, Islamabad",10 Crore,5,5,1 kanal,residential
+"Bahria Town Phase 8, Rawalpindi",4 Crore,5,5,10 marla,residential
+"Faisal Margalla City, Islamabad",67 Lac,0,0,230 sqft,commercial
+"DHA Phase 2, Islamabad",10 Crore,5,5,1 kanal,residential
+"Adyala Road, Rawalpindi",50 Lac,0,0,90 sqft,commercial
+"Raiwind Road, Lahore",40 Crore,0,0,9.5 kanal,commercial
+"Bahria Town Phase 4, Islamabad",5 Crore,5,6,10 marla,residential
+"Bahria Town Phase 4, Islamabad",4.2 Crore,5,6,10 marla,residential
+"Jallo Wana, Lahore",1.25 Crore,0,0,4.96 marla,commercial
+"Adyala Road, Rawalpindi",95 Lac,2,2,6 marla,residential
+"Adyala Road, Rawalpindi",1.2 Crore,0,0,150 sqft,commercial
+"G-8, Islamabad",85 Crore,0,0,12 marla,commercial
+"New Blue Area, Islamabad",3.32 Crore,Studio,1,495 sqft,commercial
+"Jubilee Town, Lahore",80 Lac,2,2,600 sqft,residential
+"Falcon Complex, Lahore",3.5 Crore,3,3,12 marla,residential
+"DHA Phase 2, Islamabad",6 Crore,5,5,10 marla,residential
+"Johar Town, Lahore",76.88 Lac,0,0,615 sqft,commercial
+"Bani Gala, Islamabad",3.5 Crore,4,4,10 marla,residential
+"Bahria Town Phase 8, Rawalpindi",1.15 Crore,0,0,480 sqft,commercial
+"Bahria Town Phase 8, Rawalpindi",50 Lac,0,0,120 sqft,commercial
+"Gulberg 3, Lahore",32 Crore,0,0,2 kanal,commercial
+"Bahria Town Phase 8, Rawalpindi",2.05 Crore,3,3,5 marla,residential
+"Snober City, Rawalpindi",1.55 Crore,4,4,5 marla,residential
+"Adyala Road, Rawalpindi",1.4 Crore,0,0,173 sqft,commercial
+"Jubilee Town, Lahore",60 Lac,2,2,700 sqft,residential
+"Murree Expressway, Islamabad",1.56 Crore,0,0,384 sqft,commercial
+"Bahria Town Phase 8, Sector J, Rawalpindi",3.75 Crore,5,6,10 marla,residential
+"Bani Gala, Islamabad",9 Crore,5,5,2 kanal,residential
+"Johar Town, Lahore",2.25 Crore,4,4,5 marla,residential
+"Bahria Town Phase 7, Rawalpindi",48 Lac,0,0,150 sqft,commercial
+"Phase 8, Bahria Town, Sector A, , Rawalpindi",4.6 Crore,5,6,10 marla,residential
+"Bahria Enclave, Islamabad",2.3 Crore,3,2,5 marla,residential
+"Bahria Town Phase 8, Block Ali, Rawalpindi",2.5 Crore,4,5,7 marla,residential
+"Bahria Town Phase 8-Khalid Block, Rawalpindi",4.3 Crore,5,6,10 marla,residential
+"Jubilee Town, Lahore",60 Lac,2,2,700 sqft,residential
+"I-8 Markaz, Islamabad",12.5 Crore,0,0,2700 sqft,commercial
+"DHA Town Phase 9, Lahore",2.84 Crore,3,4,5 marla,residential
+"Bahria Town Phase 8, Rawalpindi",2.1 Crore,3,3,5 marla,residential
+"Adyala Road, Rawalpindi",56 Lac,0,0,110 sqft,commercial
+"TopCity-1 , Islamabad",3 Crore,0,0,590 sqft,commercial
+"LDA Avenue Phase 1, Lahore",3.8 Crore,5,6,10 marla,residential
+"Gulberg, Lahore",20 Crore,0,2,25 marla,commercial
+"Adyala Road, Rawalpindi",28 Lac,0,0,45 sqft,commercial
+"Bahria Enclave, Sector I, Islamabad",2.25 Crore,3,3,5 marla,residential
+"DHA Homes, Islamabad",1.66 Crore,3,3,8 marla,residential
+"Ichra, Lahore",1.2 Crore,0,0,528 sqft,commercial
+"Lehtrar Road, Islamabad",1.45 Crore,0,0,1.54 marla,commercial
+"DHA Phase 2, Islamabad",9.5 Crore,5,5,1 kanal,residential
+"LDA Avenue Phase 1, Lahore",3.25 Crore,5,6,10 marla,residential
+"Johar Town, Lahore",3.08 Crore,0,0,615 sqft,commercial
+"Walton Road, Lahore",42000,0,0,4 marla,commercial
+"DHA Phase 4, Lahore",6.6 Crore,5,5,1 kanal,residential
+"Bahria Town Phase 4, Islamabad",5.2 Crore,5,6,10 marla,residential
+"Jubilee Town, Lahore",60 Lac,2,2,700 sqft,residential
+"Bahria Town Phase 8, Block Umer, Rawalpindi",2.8 Crore,4,5,7 marla,residential
+"Bani Gala, Islamabad",80 Lac,3,3,5 marla,residential
+"Jinnah Garden Phase 1, Islamabad",3.25 Crore,4,5,7 marla,residential
+"Phase 8, Bahria Town, Sector A, , Rawalpindi",4.5 Crore,5,6,10 marla,residential
+"Bahria Town Phase 4, Islamabad",5.3 Crore,5,6,10 marla,residential
+"Phase 8, Bahria Town, Sector L, Rawalpindi",3.65 Crore,5,6,10 marla,residential
+"Johar Town, Lahore",2.5 Crore,5,5,5 marla,residential
+"Bahria Town Phase 8, Rawalpindi",3 Crore,5,5,7 marla,residential
+"Jubilee Town, Lahore",60 Lac,1,1,520 sqft,residential
+"G-8, Islamabad",44 Crore,0,0,160 sqyd,commercial
+"Bahria Town Phase 6, Islamabad",4.5 Crore,5,6,10 marla,residential
+"Adyala Road, Rawalpindi",1.05 Crore,0,0,127 sqft,commercial
+"Bani Gala, Islamabad",2.15 Crore,4,4,5 marla,residential
+"Bahria Town Phase 8, Rawalpindi",98 Lac,2,2,890 sqft,residential
+"Bahria Town Phase 4, Islamabad",23 Crore,0,0,10 marla,commercial
+"Anarkali, Lahore",6.5 Crore,0,0,3 marla,commercial
+"Bani Gala, Islamabad",3.7 Crore,6,5,1 kanal,residential
+"I-8, Islamabad",5.25 Crore,0,0,385 sqft,commercial
+"Faisal Margalla City, Islamabad",57 Lac,0,0,170 sqft,commercial
+"Bahria Enclave, Sector N, Islamabad",2.3 Crore,4,4,5 marla,residential
+"Bahria Town Phase 8-Khalid Block, Rawalpindi",4.1 Crore,5,6,10 marla,residential
+"DHA Phase 7, Lahore",3.16 Crore,4,5,5 marla,residential
+"College Road, Lahore",28 Crore,0,0,3 kanal,commercial
+"Defence Road, Rawalpindi",70 Lac,2,2,4 marla,residential
+"DHA Phase 4, Lahore",7.3 Crore,6,6,1 kanal,residential
+"Bahria Town Phase 4, Islamabad",4.4 Crore,5,6,10 marla,residential
+"Shalimar Town, Islamabad",59.9 Lac,Studio,1,402 sqft,residential
+"Bahria Enclave, Sector A, Islamabad",7.9 Crore,0,0,4 marla,commercial
+"Gulberg, Lahore",94 Lac,0,0,330.27 sqft,commercial
+"Bahria Town Phase 8, Rawalpindi",3.25 Crore,5,5,7 marla,residential
+"Bahria Town Phase 7, Rawalpindi",16 Crore,5,5,25 marla,residential
+"Soan Garden, Islamabad",3.4 Crore,4,4,7 marla,residential
+"Faisal Margalla City, Islamabad",2.85 Crore,4,4,5 marla,residential
+"Bahria Town - Sector E , Lahore",1.6 Crore,0,0,400 sqft,commercial
+"Phase 8, Bahria Town, Sector L, Rawalpindi",3.6 Crore,5,6,10 marla,residential
+"Soan Garden, Islamabad",2.9 Crore,4,4,6 marla,residential
+"Phase 8, Bahria Town, Sector N, Rawalpindi",1.65 Crore,3,4,5 marla,residential
+"Lahore Cantt, Lahore",1.75 Crore,0,0,292 sqft,commercial
+"Cavalry Ground, Lahore",3.5 Crore,0,0,4.5 marla,commercial
+"Adyala Road, Rawalpindi",2.4 Crore,0,0,304 sqft,commercial
+"Adyala Road, Rawalpindi",50 Lac,0,0,96 sqft,commercial
+"Bahria Town Phase 8, Rawalpindi",90 Lac,0,0,410 sqft,commercial
+"Bahria Town Phase 8, Rawalpindi",4.9 Crore,5,5,10 marla,residential
+"Adyala Road, Rawalpindi",85 Lac,2,2,5 marla,residential
+"Bahria Town Phase 8, Rawalpindi",1.65 Crore,0,0,510 sqft,commercial
+"I-8, Islamabad",22 Crore,0,0,2000 sqft,commercial
+"DHA Phase 2, Lahore",14.2 Crore,5,5,1 kanal,residential
+"I-14, Islamabad",3.2 Crore,5,6,7 marla,residential
+"Bahria Town Phase 8, Rawalpindi",90 Lac,0,0,395 sqft,commercial
+"Bahria Town Phase 5, Islamabad",4.1 Crore,5,6,10 marla,residential
+"Bahria Town Phase 8, Block Ali, Rawalpindi",2.35 Crore,5,5,7 marla,residential
+"Bahria Town Phase 8, Rawalpindi",1.75 Crore,0,0,516 sqft,commercial
+"Faisal Margalla City, Islamabad",47 Lac,0,0,149 sqft,commercial
+"Adyala Road, Rawalpindi",52 Lac,0,0,103 sqft,commercial
+"Phase 8, Bahria Town, Sector M, Rawalpindi",2.1 Crore,4,4,8 marla,residential
+"Bahria Town - Sector E , Lahore",1.45 Crore,0,0,410 sqft,commercial
+"New Blue Area, Islamabad",5.3 Crore,Studio,1,684 sqft,commercial
+"Phase 8, Bahria Town, Sector L, Rawalpindi",3.8 Crore,5,6,10 marla,residential
+"Mall Road, Lahore",1 Arab,10+,10+,28 marla,commercial
+"Bahria Town Phase 8, Rawalpindi",2.05 Crore,0,0,715 sqft,commercial
+"Bahria Enclave, Islamabad",2.3 Crore,3,3,5 marla,residential
+"DHA Phase 2, Islamabad",10.4 Crore,5,5,1 kanal,residential
+"Bahria Town - Sector E , Lahore",1.5 Crore,0,0,400 sqft,commercial
+"Bani Gala, Islamabad",2.5 Crore,6,5,7 marla,residential
+"Bahria Town Phase 7, Rawalpindi",15 Crore,5,5,25 marla,residential
+"DHA Town Phase 9, Lahore",3.14 Crore,4,5,5 marla,residential
+"Bahria Town Phase 7, Rawalpindi",32 Lac,0,0,120 sqft,commercial
+"Airport Housing Society, Sector 4, Rawalpindi",1.55 Crore,3,3,6 marla,residential
+"Adyala Road, Rawalpindi",60 Lac,0,0,69 sqft,commercial
+"Falcon Complex, Lahore",4.5 Crore,4,4,14 marla,residential
+"Bahria Town Phase 8, Rawalpindi",3.5 Crore,0,0,2 marla,commercial
+"Jubilee Town, Lahore",75 Lac,2,2,1000 sqft,residential
+"DHA Phase 2, Lahore",12.2 Crore,5,5,1 kanal,residential
+"Adyala Road, Rawalpindi",2.8 Crore,0,0,336 sqft,commercial
+"Defence Villas, Rawalpindi",3.9 Crore,3,4,11 marla,residential
+"Johar Town, Lahore",5.1 Crore,5,5,12 marla,residential
+"Adyala Road, Rawalpindi",50 Lac,0,0,105 sqft,commercial
+"DHA Phase 1, Sector F, Rawalpindi",9.75 Crore,0,0,3600 sqft,commercial
+"F-11 Markaz, Islamabad",8 Arab,0,0,1600 sqyd,commercial
+"Bahria Town - Sector E , Lahore",48000,1,1,450 sqft,residential
+"Garrison Homes, Lahore",4 Crore,0,0,4 marla,commercial
+"Eastern Housing Society, Lahore",2 Crore,1,1,5 marla,commercial
+"Media Town, Islamabad",7 Crore,6,6,12 marla,residential
+"Bahria Enclave, Sector A, Islamabad",11.1 Crore,10+,6,4 marla,commercial
+"G-13/2, Islamabad",3.7 Crore,5,4,4 marla,residential
+"Bahria Town Phase 8, Block Rafi, Rawalpindi",1.9 Crore,3,4,5 marla,residential
+"Bahria Town - Sector F, Lahore",1.55 Crore,0,0,380 sqft,commercial
+"Khayaban e Amin, Lahore",25 Crore,0,0,10.66 marla,commercial
+"Bahria Town Phase 7, Rawalpindi",4 Crore,0,0,1280 sqft,commercial
+"Multan Road, Lahore",7.5 Crore,5,5,12000 sqft,commercial
+"Blue Area, Islamabad",8.07 Crore,0,0,1391 sqft,commercial
+"Soan Garden, Islamabad",3.4 Crore,6,6,7 marla,residential
+"Etihad Town, Lahore",7 Crore,0,0,8 marla,commercial
+"Bahria Town Phase 8, Rawalpindi",4.6 Crore,5,5,10 marla,residential
+"DHA Phase 6, Lahore",10 Crore,4,4,1 kanal,residential
+"Bahria Town Phase 3, Islamabad",4.5 Crore,4,5,10 marla,residential
+"Jubilee Town, Lahore",2.2 Crore,4,4,5 marla,residential
+"Johar Town, Lahore",9 Crore,5,6,1 kanal,residential
+"Bahria Town Phase 8, Sector H, Rawalpindi",4 Crore,5,6,10 marla,residential
+"Eastern Housing Society, Lahore",2 Crore,0,0,5 marla,commercial
+"MM Alam Road, Lahore",76230,0,0,128 sqft,commercial
+"Jubilee Town, Lahore",2.3 Crore,4,4,5 marla,residential
+"Adyala Road, Rawalpindi",38 Lac,0,0,1.15 marla,commercial
+"Jubilee Town, Lahore",50000,0,0,1000 sqft,commercial
+"Bahria Town Phase 8 Lakeview block, Rawalpindi",4.5 Crore,5,6,10 marla,residential
+"Bahria Town Phase 7, Rawalpindi",17 Crore,5,5,25 marla,residential
+"Bahria Town Phase 5, Islamabad",4 Crore,5,6,10 marla,residential
+"DHA Phase 3, Lahore",1.5 Lac,3,3,1 kanal,residential
+"Multi Gardens, B-17, Block-B, Islamabad",6.15 Crore,4,4,10 marla,residential
+"TopCity-1 , Islamabad",42 Lac,Studio,1,255 sqft,commercial
+"Jubilee Town, Lahore",80 Lac,2,2,600 sqft,residential
+"Faisal Margalla City, Islamabad",55 Lac,0,0,158 sqft,commercial
+"DHA Phase 2, Defence Residency, Islamabad",1.5 Crore,2,2,1509 sqft,residential
+"DHA Phase 1, Sector F, Rawalpindi",1.25 Crore,1,1,476 sqft,commercial
+"Phase 8, Bahria Town, Sector M, Rawalpindi",2 Crore,4,4,8 marla,residential
+"Phase 8, Bahria Town, Sector G, Rawalpindi",3.55 Crore,5,6,10 marla,residential
+"DHA Phase 2, Islamabad",9.5 Crore,5,5,1 kanal,residential
+"Wapda Town Phase 1, Lahore",2.55 Crore,5,5,5 marla,residential
+"Bahria Town Phase 4, Islamabad",4.35 Crore,5,6,10 marla,residential
+"Bahria Town Phase 8, Rawalpindi",4.2 Crore,5,5,10 marla,residential
+"DHA Phase 2, Islamabad",10 Crore,5,5,1 kanal,residential
+"Bani Gala, Islamabad",1.85 Crore,4,4,5 marla,residential
+"Adyala Road, Rawalpindi",2.25 Crore,0,0,267 sqft,commercial
+"DHA Phase 2, Islamabad",8.25 Crore,5,5,1 kanal,residential
+"D-17, Islamabad",80 Lac,0,0,265 sqft,commercial
+"Bahria Enclave, Islamabad",1.1 Crore,0,0,450 sqft,commercial
+"Bahria Town Phase 6, Islamabad",4.8 Crore,5,6,10 marla,residential
+"Bahria Town - Sector E , Lahore",60 Lac,1,1,400 sqft,residential
+"Phase 8, Bahria Town, Sector M, Rawalpindi",2.2 Crore,4,4,8 marla,residential
+"Adyala Road, Rawalpindi",66 Lac,0,0,130 sqft,commercial
+"Jubilee Town, Lahore",2.2 Crore,4,4,5 marla,residential
+"Bahria Town Phase 8, Rawalpindi",51 Lac,0,0,200 sqft,commercial
+"Bahria Town - Sector B, Lahore",1.9 Crore,4,4,5 marla,residential
+"DHA Phase 2, Lahore",6.7 Crore,5,5,1 kanal,residential
+"Faisal Margalla City, Islamabad",78 Lac,0,0,230 sqft,commercial
+"Phase 8, Bahria Town, Sector N, Rawalpindi",1.5 Crore,3,4,5 marla,residential
+"DHA Phase 2, Islamabad",8 Crore,4,5,1 kanal,residential
+"DHA Phase 4, Lahore",8.1 Crore,5,5,1 kanal,residential
+"Bahria Enclave, Sector N, Islamabad",1.5 Crore,4,4,8 marla,residential
+"G-11, Islamabad",4 Crore,0,0,360 sqft,commercial
+"Bahria Town Phase 8, Rawalpindi",1.68 Crore,0,0,510 sqft,commercial
+"DHA Phase 2, Defence Residency, Islamabad",90 Lac,2,2,804 sqft,residential
+"LDA Avenue Phase 1, Lahore",3.2 Crore,5,6,10 marla,residential
+"Phase 8, Bahria Town, Sector M, Rawalpindi",2.35 Crore,4,4,8 marla,residential
+"Green Villas, Rawalpindi",1.2 Crore,4,4,5 marla,residential
+"Bahria Town Phase 8, Rawalpindi",2.1 Crore,3,3,5 marla,residential
+"Punjab University Society Phase 2, Lahore",2.8 Crore,7,8,7 marla,residential
+"Bahria Town Phase 8, Rawalpindi",1.05 Crore,0,0,410 sqft,commercial
+"Jubilee Town, Lahore",50000,0,0,1000 sqft,commercial
+"Bahria Town Phase 5, Islamabad",4.2 Crore,5,6,10 marla,residential
+"Bahria Town Phase 8, Rawalpindi",3 Crore,5,5,7 marla,residential
+"Adyala Road, Rawalpindi",48 Lac,0,0,94 sqft,commercial
+"Paragon City - Imperial 1 Block, Lahore",1.85 Crore,3,4,5 marla,residential
+"Phase 8, Bahria Town, Sector G, Rawalpindi",3.85 Crore,5,6,10 marla,residential
+"LDA Avenue Phase 1, Lahore",3.2 Crore,5,6,10 marla,residential
+"Adyala Road, Rawalpindi",55 Lac,0,0,98 sqft,commercial
+"F-7/2, Islamabad",55 Crore,0,0,6 marla,commercial
+"Bahria Town Phase 8, Sector H, Rawalpindi",4.3 Crore,5,6,10 marla,residential
+"DHA Phase 8, Lahore",3.14 Crore,4,5,5 marla,residential
+"Bahria Enclave, Islamabad",2.2 Crore,4,4,5 marla,residential
+"Johar Town, Lahore",2.5 Crore,5,5,5 marla,residential
+"Bahria Town Phase 8, Rawalpindi",70 Lac,0,0,170 sqft,commercial
+"Faisal Town, F-18 , Islamabad",2.8 Crore,4,4,5 marla,residential
+"Bani Gala, Islamabad",3.5 Crore,5,5,10 marla,residential
+"Bahria Town Phase 8, Sector C, Rawalpindi",4.8 Crore,5,6,10 marla,residential
+"DHA Phase 2, Defence Residency, Islamabad",1.2 Crore,1,1,1074 sqft,residential
+"D-17, Islamabad",25 Crore,9,10+,5 kanal,residential
+"Bahria Town Phase 8, Rawalpindi",2.45 Crore,3,5,7 marla,residential
+"Bani Gala, Islamabad",1.9 Crore,4,4,5 marla,residential
+"Wapda Town Phase 1, Lahore",2.6 Crore,5,5,5 marla,residential
+"G-13/4, Islamabad",8.95 Crore,6,6,10 marla,residential
+"Marwa Town, Islamabad",3 Crore,0,0,6 marla,commercial
+"Bahria Town Phase 8, Rawalpindi",4.35 Crore,5,5,10 marla,residential
+"Adyala Road, Rawalpindi",1.4 Crore,0,0,164 sqft,commercial
+"Bahria Town Phase 8, Rawalpindi",3 Crore,5,5,7 marla,residential
+"Bahria Town - Sector E , Lahore",1.85 Crore,4,4,5 marla,residential
+"Faisal Margalla City, Islamabad",47 Lac,0,0,164 sqft,commercial
+"F-7, Islamabad",42 Crore,0,4,12 marla,commercial
+"DHA Phase 6, Lahore",10 Lac,0,0,450 sqft,commercial
+"Johar Town, Lahore",2.8 Crore,5,5,5 marla,residential
+"Bahria Enclave, Islamabad",13 Crore,0,0,5 marla,commercial
+"DHA Phase 2, Islamabad",10.25 Crore,5,5,1 kanal,residential
+"Bahria Town Phase 8, Sector C, Rawalpindi",4.85 Crore,5,6,10 marla,residential
+"Bahria Town Phase 8, Rawalpindi",48 Lac,1,0,332 sqft,commercial
+"Faisal Margalla City, Islamabad",57 Lac,0,0,179 sqft,commercial
+"Adyala Road, Rawalpindi",50 Lac,0,0,110 sqft,commercial
+"Adyala Road, Rawalpindi",86 Lac,0,0,2.5 marla,commercial
+"Bahria Town Phase 1, Islamabad",1.08 Crore,0,0,453 sqft,commercial
+"Soan Garden, Islamabad",3.5 Crore,4,5,7 marla,residential
+"DHA Phase 2, Islamabad",9.5 Crore,5,5,1 kanal,residential
+"Clifton Township, Rawalpindi",95 Lac,2,2,5 marla,residential
+"Jubilee Town, Lahore",60 Lac,1,1,520 sqft,residential
+"Bhara Kahu, Islamabad",65 Lac,4,4,4 marla,residential
+"Adyala Road, Rawalpindi",40 Lac,0,0,1.25 marla,commercial
+"Bahria Enclave, Islamabad",2.2 Crore,3,3,5 marla,residential
+"Bahria Town Phase 8, Rawalpindi",2 Crore,3,3,5 marla,residential
+"DHA Town Phase 9, Lahore",3.16 Crore,4,5,5 marla,residential
+"Bahria Town Phase 8, Rawalpindi",4 Crore,5,5,10 marla,residential
+"Jubilee Town, Lahore",60 Lac,1,1,520 sqft,residential
+"Bahria Town - Sector E , Lahore",4.95 Crore,4,4,10 marla,residential
+"Bahria Town Phase 8, Rawalpindi",1.9 Crore,0,0,502 sqft,commercial
+"F-10 Markaz, Islamabad",2.1 Crore,0,0,750 sqft,commercial
+"DHA Town Phase 9, Lahore",3.14 Crore,4,5,5 marla,residential
+"DHA Phase 2, Islamabad",8.75 Crore,5,5,1 kanal,residential
+"Adyala Road, Rawalpindi",95 Lac,0,0,109 sqft,commercial
+"Daroghe Wala, Lahore",11.5 Crore,0,0,46 marla,commercial
+"G-8 Markaz, Islamabad",2.15 Crore,0,0,409 sqft,commercial
+"Bahria Town Phase 8, Rawalpindi",70 Lac,0,0,510 sqft,commercial
+"LDA Avenue Phase 1, Lahore",3.25 Crore,5,6,10 marla,residential
+"Johar Town, Lahore",8.2 Crore,5,6,1 kanal,residential
+"Adyala Road, Rawalpindi",1.9 Crore,3,4,5 marla,residential
+"Bahria Town Phase 7, Rawalpindi",4.8 Crore,5,6,10 marla,residential
+"Bani Gala, Islamabad",3.5 Crore,5,5,1 kanal,residential
+"Bahria Town - Sector E , Lahore",1.45 Crore,0,0,410 sqft,commercial
+"Gulberg Greens, Islamabad",31.5 Crore,0,0,10000 sqft,commercial
+"Bahria Town Phase 8, Sector J, Rawalpindi",3.85 Crore,5,6,10 marla,residential
+"Sangar Town, Rawalpindi",7 Crore,0,0,6.5 marla,commercial
+"Bahria Town Phase 6, Islamabad",4.6 Crore,5,6,10 marla,residential
+"Bahria Town - Sector D, Lahore",1.95 Crore,3,4,5 marla,residential
+"Bahria Enclave, Islamabad",2.2 Crore,3,3,5 marla,residential
+"Bahria Enclave, Sector A, Islamabad",11.1 Crore,10+,6,4 marla,commercial
+"Adyala Road, Rawalpindi",75 Lac,0,0,1.15 marla,commercial
+"Bani Gala, Islamabad",2.2 Crore,4,4,5 marla,residential
+"DHA Phase 2, Islamabad",10.25 Crore,5,5,1 kanal,residential
+"Adyala Road, Rawalpindi",25 Lac,0,0,44 sqft,commercial
+"Park View City, Lahore",3.5 Crore,4,4,10 marla,residential
+"Bahria Town - Sector C , Lahore",30000,3,4,5 marla,residential
+"DHA Phase 6, Lahore",16.5 Crore,4,4,1 kanal,residential
+"Bahria Town Phase 8, Rawalpindi",2.6 Crore,5,5,7 marla,residential
+"Jubilee Town, Lahore",60 Lac,1,1,520 sqft,residential
+"PIA Main Boulevard, Lahore",15 Crore,0,0,1 kanal,commercial
+"I-10, Islamabad",2.5 Crore,0,0,300 sqft,commercial
+"Bahria Town Phase 8, Sector C, Rawalpindi",5 Crore,5,6,10 marla,residential
+"Jubilee Town, Lahore",60 Lac,1,1,520 sqft,residential
+"Jubilee Town, Lahore",60 Lac,1,1,520 sqft,residential
+"Lytton Road, Lahore",65 Lac,0,0,1 marla,commercial
+"Bahria Town - Sector E , Lahore",1.88 Crore,3,4,5 marla,residential
+"Jubilee Town, Lahore",50000,0,0,1000 sqft,commercial
+"Bahria Town Phase 4, Islamabad",4.3 Crore,5,6,10 marla,residential
+"Bahria Town Phase 8, Block Ali, Rawalpindi",2.6 Crore,4,5,7 marla,residential
+"Allama Iqbal Town - Huma Block, Lahore",4.8 Crore,5,2,4.5 marla,commercial
+"Commercial Market, Rawalpindi",14 Lac,0,0,137 sqft,commercial
+"Johar Town, Lahore",2.75 Crore,5,5,5 marla,residential
+"TopCity-1 , Islamabad",85 Lac,0,0,318 sqft,commercial
+"Adyala Road, Rawalpindi",80 Lac,0,0,146 sqft,commercial
+"Bahria Town Phase 8, Rawalpindi",2.05 Crore,0,0,710 sqft,commercial
+"DHA Phase 2, Islamabad",9.85 Crore,5,5,1 kanal,residential
+"Bahria Town Phase 8, Rawalpindi",5.3 Crore,5,5,12 marla,residential
+"Allama Iqbal Town - Huma Block, Lahore",4.8 Crore,5,2,4.5 marla,commercial
+"Bahria Enclave, Islamabad",4 Crore,4,4,8 marla,residential
+"Bahria Town Phase 4, Islamabad",4.25 Crore,5,6,10 marla,residential
+"Adyala Road, Rawalpindi",85 Lac,2,2,5 marla,residential
+"Bahria Town Phase 8, Rawalpindi",1 Crore,2,2,890 sqft,residential
+"Bahria Town Phase 8, Block Umer, Rawalpindi",2.85 Crore,4,5,7 marla,residential
+"DHA Phase 2, Islamabad",10 Crore,5,5,1 kanal,residential
+"Adyala Road, Rawalpindi",40 Lac,0,0,89.25 sqft,commercial
+"Bahria Town - Sector E , Lahore",1.65 Crore,1,1,450 sqft,residential
+"Bahria Enclave, Islamabad",8 Crore,5,5,12 marla,residential
+"Bahria Town Phase 8, Rawalpindi",3.9 Crore,5,5,10 marla,residential
+"Bahria Town Phase 8, Block Umer, Rawalpindi",2.75 Crore,4,5,7 marla,residential
+"Khanna Pul, Islamabad",52.5 Lac,0,0,120 sqft,commercial
+"Bahria Orchard, Lahore",4.5 Crore,4,4,10 marla,residential
+"Adyala Road, Rawalpindi",85 Lac,0,0,101 sqft,commercial
+"Bahria Enclave, Islamabad",5.5 Crore,8,8,10 marla,residential
+"LDA Avenue Phase 1, Lahore",3.6 Crore,5,6,10 marla,residential
+"G-13, Islamabad",45 Crore,0,0,22 marla,commercial
+"Bahria Town Phase 8, Rawalpindi",4.4 Crore,5,5,10 marla,residential
+"Adyala Road, Rawalpindi",46 Lac,0,0,98.56 sqft,commercial
+"Punjab Small Industries Cooperative Housing Society, Lahore",45000,2,2,7 marla,residential
+"Bahria Town Phase 4, Islamabad",65 Lac,1,1,514 sqft,residential
+"Johar Town, Lahore",2.5 Crore,5,5,5 marla,residential
+"Johar Town, Lahore",3.9 Crore,5,5,10 marla,residential
+"DHA Phase 3, Islamabad",2.25 Crore,3,4,5 marla,residential
+"Bahria Town Phase 8, Rawalpindi",62 Lac,0,0,425 sqft,commercial
+"Bahria Town Phase 8, Rawalpindi",50 Lac,0,0,113 sqft,commercial
+"Adyala Road, Rawalpindi",45 Lac,0,0,80 sqft,commercial
+"Johar Town, Lahore",2.5 Crore,5,5,5 marla,residential
+"Bahria Town - Sector E , Lahore",1.6 Crore,0,0,380 sqft,commercial
+"DHA Phase 6, Lahore",8 Crore,4,4,10 marla,residential
+"Bahria Town Phase 8, Rawalpindi",3.25 Crore,5,5,7 marla,residential
+"Bahria Town - Sector E , Lahore",1.99 Crore,4,5,5 marla,residential
+"Sector O-9, National Police Foundation, Islamabad",50 Lac,0,0,234 sqft,commercial
+"Gulshan Abad, Rawalpindi",3.5 Crore,3,3,1 kanal,residential
+"Bahria Town Phase 8, Sector C, Rawalpindi",4.75 Crore,5,6,10 marla,residential
+"Bahria Town Phase 8, Rawalpindi",2 Crore,0,0,710 sqft,commercial
+"Soan Garden, Islamabad",3.8 Crore,5,6,10 marla,residential
+"Faisal Margalla City, Islamabad",2.85 Crore,4,4,5 marla,residential
+"Bahria Town Phase 8, Rawalpindi",1.65 Crore,0,0,499 sqft,commercial
+"Bahria Town Phase 3, Islamabad",4.8 Crore,5,6,10 marla,residential
+"DHA Phase 2, Islamabad",5.8 Crore,5,5,10 marla,residential
+"Bahria Town Phase 8, Block D , Rawalpindi",4.4 Crore,5,6,10 marla,residential
+"Bahria Town Phase 8, Rawalpindi",2 Crore,0,0,710 sqft,commercial
+"E-11, Islamabad",16 Crore,0,0,3200 sqft,commercial
+"Bahria Town Phase 4, Islamabad",2.2 Crore,0,0,10 marla,commercial
+"Gulshan Abad, Rawalpindi",1.65 Crore,3,3,10 marla,residential
+"PWD, Block C, Islamabad",55,6,6,12 marla,residential
+"Canal Bank Road, Lahore",20 Crore,10+,10+,1 kanal,commercial
+"Jubilee Town, Lahore",50000,0,0,1000 sqft,commercial
+"Bahria Enclave, Islamabad",90 Lac,0,0,450 sqft,commercial
+"DHA Phase 2, Islamabad",9 Crore,5,5,1 kanal,residential
+"DHA Phase 2, Islamabad",6 Crore,5,5,10 marla,residential
+"Jubilee Town, Lahore",60 Lac,1,1,520 sqft,residential
+"Satellite Town, Block B, Rawalpindi",8.2 Crore,6,4,8.75 marla,commercial
+"DHA Phase 2, Islamabad",10.5 Crore,5,5,1 kanal,residential
+"Adyala Road, Rawalpindi",36 Lac,0,0,70 sqft,commercial
+"DHA Phase 6, Lahore",12.85 Crore,4,4,1 kanal,residential
+"Bahria Town - Sector F, Lahore",1.6 Crore,0,0,400 sqft,commercial
+"Bahria Town Phase 8, Block Rafi, Rawalpindi",3.5 Crore,4,5,8 marla,residential
+"Bahria Town Phase 7, Rawalpindi",14 Crore,5,5,25 marla,residential
+"F-8 Markaz, Islamabad",4.5 Crore,0,0,2.3 marla,commercial
+"Bahria Town Phase 8, Rawalpindi",1.3 Crore,0,0,6 marla,commercial
+"Bahria Town Phase 4, Islamabad",4.1 Crore,5,6,10 marla,residential
+"DHA Phase 4, Lahore",7.3 Crore,5,5,1 kanal,residential
+"Bahria Town Phase 8, Rawalpindi",4.7 Crore,5,5,10.5 marla,residential
+"Bahria Town Phase 5, Islamabad",4.25 Crore,5,6,10 marla,residential
+"G-11, Islamabad",4.1 Crore,5,5,5 marla,residential
+"Johar Town, Lahore",2.3 Crore,5,5,5 marla,residential
+"Bahria Enclave, Sector N, Islamabad",2.25 Crore,3,3,5 marla,residential
+"Adyala Road, Rawalpindi",32 Lac,0,0,61 sqft,commercial
+"Bahria Town Phase 8, Rawalpindi",51 Lac,0,0,114 sqft,commercial
+"PIA Main Boulevard, Lahore",18 Crore,2,3,2 kanal,commercial
+"Bahria Town Phase 8, Rawalpindi",95 Lac,2,2,890 sqft,residential
+"Bahria Town Phase 8, Rawalpindi",3 Crore,5,5,7 marla,residential
+"Mazang, Lahore",4 Crore,0,0,400 sqft,commercial
+"Adyala Road, Rawalpindi",85 Lac,0,0,2.5 marla,commercial
+"Adyala Road, Rawalpindi",32 Lac,0,0,54 sqft,commercial
+"Bahria Town - Sector E , Lahore",62 Lac,1,1,390 sqft,residential
+"Bahria Town Phase 8, Rawalpindi",92 Lac,0,0,395 sqft,commercial
+"Bahria Town - Sector E , Lahore",4.95 Crore,4,5,10 marla,residential
+"Bahria Town Phase 8, Rawalpindi",4.5 Crore,5,5,10 marla,residential
+"Bahria Town Phase 4, Islamabad",4.5 Crore,5,6,10 marla,residential
+"DHA Phase 4, Lahore",7.4 Crore,6,6,1 kanal,residential
+"Bahria Enclave, Sector B1, Islamabad",2.27 Crore,0,0,5 marla,commercial
+"G-8, Islamabad",2.95 Crore,0,0,480 sqft,commercial
+"Phase 8, Bahria Town, Sector G, Rawalpindi",3.6 Crore,5,6,10 marla,residential
+"Bahria Town Phase 2, Islamabad",9.5 Crore,5,6,1 kanal,residential
+"DHA Phase 2, Islamabad",9.25 Crore,5,5,1 kanal,residential
+"Bahria Town Phase 8, Sector E1, Rawalpindi",2.25 Crore,3,3,6 marla,residential
+"DHA Phase 6, Lahore",10 Crore,4,4,1 kanal,residential
+"Bahria Town Phase 7, Rawalpindi",27 Lac,0,0,110 sqft,commercial
+"Park View City, Lahore",1.5 Crore,4,4,5 marla,residential
+"DHA Phase 4, Lahore",4.9 Crore,2,2,1350 sqft,residential
+"DHA Phase 2, Islamabad",9.2 Crore,5,5,1 kanal,residential
+"I-9, Islamabad",40 Crore,0,0,4.4 marla,commercial
+"Jubilee Town, Lahore",60 Lac,1,1,520 sqft,residential
+"DHA Phase 2, Islamabad",9 Crore,5,5,1 kanal,residential
+"Phase 8, Bahria Town, Sector L, Rawalpindi",3.75 Crore,5,6,10 marla,residential
+"DHA Phase 4, Lahore",4.9 Crore,2,2,1350 sqft,residential
+"Bahria Town Phase 4, Islamabad",5.4 Crore,5,6,10 marla,residential
+"Chaklala Scheme 3, Rawalpindi",2 Crore,7,7,5 marla,residential
+"Phase 8, Bahria Town, Sector L, Rawalpindi",3.7 Crore,5,6,10 marla,residential
+"Bahria Town Phase 8, Rawalpindi",2.95 Crore,5,5,7 marla,residential
+"Bahria Town Phase 8, Rawalpindi",2.15 Crore,3,3,5 marla,residential
+"DHA Town Phase 9, Lahore",3.14 Crore,4,5,5 marla,residential
+"Airport Housing Society, Sector 4, Rawalpindi",3.1 Crore,6,6,8 marla,residential
+"Jubilee Town, Lahore",2.48 Crore,4,4,5 marla,residential
+"Wapda Town Phase 1, Lahore",2.5 Crore,5,5,5 marla,residential
+"Faisal Margalla City, Islamabad",57 Lac,0,0,155 sqft,commercial
+"Faisal Margalla City, Islamabad",81 Lac,0,0,230 sqft,commercial
+"DHA Phase 6, Lahore",7.5 Crore,4,4,10 marla,residential
+"Bahria Town Phase 7, Rawalpindi",16.5 Crore,5,5,25 marla,residential
+"Bahria Town Phase 8 Lakeview block, Rawalpindi",4.65 Crore,5,6,10 marla,residential
+"Jubilee Town, Lahore",50000,0,0,1000 sqft,commercial
+"LDA Avenue Phase 1, Lahore",3.25 Crore,6,5,10 marla,residential
+"DHA Phase 3, Islamabad",4.9 Crore,5,6,10 marla,residential
+"Bahria Enclave, Sector B1, Islamabad",3 Crore,4,4,5 marla,residential
+"Bahria Town Phase 7, Rawalpindi",1.2 Crore,0,0,797 sqft,commercial
+"G-13/2, Islamabad",45 Crore,0,0,4300 sqft,commercial
+"Bahria Town Phase 3, Islamabad",4.7 Crore,5,6,10 marla,residential
+"Wapda Town Phase 1, Lahore",4.8 Crore,5,5,10 marla,residential
+"Bahria Town - Sector F, Lahore",1.98 Crore,3,4,5 marla,residential
+"Bahria Town - Sector D, Lahore",1.92 Crore,3,4,5 marla,residential
+"Wapda Town Phase 1, Lahore",2.3 Crore,4,5,5 marla,residential
+"Bahria Town Phase 8, Rawalpindi",30 Lac,1,0,300 sqft,commercial
+"Bahria Town - Sector E , Lahore",1.9 Crore,2,2,5 marla,residential
+"G-10/4, Islamabad",7.5 Crore,8,7,5.6 marla,residential
+"Adyala Road, Rawalpindi",60 Lac,0,0,138 sqft,commercial
+"Bahria Town Phase 7, Rawalpindi",28 Lac,0,0,110 sqft,commercial
+"G-9/3, Islamabad",14 Crore,9,9,14 marla,residential
+"Bahria Town Phase 3, Islamabad",4.9 Crore,5,6,10 marla,residential
+"Bahria Town Phase 6, Islamabad",4.9 Crore,5,6,10 marla,residential
+"Park View City, Islamabad",25 Lac,0,0,153 sqft,commercial
+"DHA Phase 2, Lahore",7.3 Crore,6,6,1 kanal,residential
+"Bahria Town Phase 8 Lakeview block, Rawalpindi",4.55 Crore,5,6,10 marla,residential
+"Jubilee Town, Lahore",50000,0,0,1000 sqft,commercial
+"Bahria Town Phase 8, Rawalpindi",1.77 Crore,0,0,516 sqft,commercial
+"Bahria Town Phase 8, Block Umer, Rawalpindi",2.7 Crore,4,5,7 marla,residential
+"Faisal Margalla City, Islamabad",47 Lac,0,0,170 sqft,commercial
+"Adyala Road, Rawalpindi",1.55 Crore,0,0,183 sqft,commercial
+"Bahria Town - Sector A, Lahore",4.85 Crore,4,4,10 marla,residential
+"DHA Phase 2, Islamabad",9 Crore,5,5,1 kanal,residential
+"Bahria Town Phase 8, Rawalpindi",1.6 Crore,0,0,461 sqft,commercial
+"Adyala Road, Rawalpindi",55 Lac,0,0,123 sqft,commercial
+"Adyala Road, Rawalpindi",35 Lac,0,0,66 sqft,commercial
+"Bahria Town Phase 8, Rawalpindi",2.7 Crore,5,5,7 marla,residential
+"Adyala Road, Rawalpindi",50 Lac,0,0,62 sqft,commercial
+"DHA Town Phase 9, Lahore",3.12 Crore,4,5,5 marla,residential
+"Bahria Town Phase 6, Islamabad",4.7 Crore,5,6,10 marla,residential
+"LDA Avenue Phase 1, Lahore",3.25 Crore,6,5,10 marla,residential
+"Johar Town, Lahore",2.4 Crore,5,5,5 marla,residential
+"Gulberg 3, Lahore",4 Crore,0,0,240 sqft,commercial
+"DHA Phase 2, Islamabad",9.75 Crore,5,5,1 kanal,residential
+"Haji Park Housing Scheme, Lahore",1.4 Crore,4,4,5 marla,residential
+"Defence Villas, Rawalpindi",4 Crore,3,4,11 marla,residential
+"Gulberg 1, Lahore",95 Lac,0,0,119 sqft,commercial
+"Bahria Town Phase 8, Rawalpindi",2.8 Crore,5,5,7 marla,residential
+"Bhara Kahu, Islamabad",12 Crore,0,0,13 marla,commercial
+"Snober City, Rawalpindi",1.35 Crore,4,4,5 marla,residential
+"Bahria Enclave, Islamabad",5.5 Crore,6,5,10 marla,residential
+"DHA Phase 4, Lahore",6.7 Crore,5,5,1 kanal,residential
+"I-9 Markaz, Islamabad",20 Crore,0,0,6 marla,commercial
+"Bahria Town - Sector E , Lahore",4.95 Crore,4,5,10 marla,residential
+"Gulberg 3, Lahore",6.5 Crore,0,0,344 sqft,commercial
+"Jinnah Garden, Islamabad",50 Lac,0,0,120 sqft,commercial
+"Phase 8, Bahria Town, Sector N, Rawalpindi",1.6 Crore,3,4,5 marla,residential
+"DHA Phase 3, Islamabad",2.2 Crore,3,4,5 marla,residential
+"G-14/4, Islamabad",3.6 Crore,4,5,4.4 marla,residential
+"DHA Phase 6, Lahore",12.85 Crore,4,4,1 kanal,residential
+"Al Kabir Town Phase 2, Lahore",52.92 Lac,0,0,1.3 marla,commercial
+"DHA Phase 6, Lahore",7.5 Crore,4,4,10 marla,residential
+"Wapda Town Phase 1, Lahore",2.6 Crore,5,5,5 marla,residential
+"Adyala Road, Rawalpindi",1.25 Crore,4,4,5 marla,residential
+"Bahria Town - Sector E , Lahore",65 Lac,1,1,400 sqft,residential
+"DHA Phase 2, Defence Residency, Islamabad",1.6 Crore,3,3,10.74 marla,residential
+"Bahria Town Phase 3, Islamabad",4.6 Crore,5,6,10 marla,residential
+"Nisbat Road, Lahore",1.6 Crore,0,0,4 marla,commercial
+"Defence Villas, Rawalpindi",3.8 Crore,3,4,11 marla,residential
+"Johar Town, Lahore",2.5 Crore,5,5,5 marla,residential
+"Bani Gala, Islamabad",1.25 Crore,3,3,10 marla,residential
+"Faisal Margalla City, Islamabad",55 Lac,0,0,155 sqft,commercial
+"Wapda Town Phase 1, Lahore",2.4 Crore,5,5,5 marla,residential
+"Bahria Town Phase 8, Block D , Rawalpindi",4.35 Crore,5,6,10 marla,residential
+"Jubilee Town, Lahore",60 Lac,1,1,520 sqft,residential
+"Adyala Road, Rawalpindi",47 Lac,0,0,101.16 sqft,commercial
+"DHA Phase 2, Islamabad",9.8 Crore,5,5,1 kanal,residential
+"Bahria Town Phase 4, Islamabad",4.6 Crore,5,6,10 marla,residential
+"Islampura, Lahore",5 Crore,0,0,2.7 marla,commercial
+"Soan Garden, Block F, Islamabad",3.5 Crore,0,0,4.4 marla,commercial
+"Airport Housing Society, Sector 4, Rawalpindi",1.7 Crore,3,3,6 marla,residential
+"Samarzar Housing Society, Rawalpindi",67 Lac,2,2,5 marla,residential
+"Phase 8, Bahria Town, Sector N, Rawalpindi",1.75 Crore,3,4,5 marla,residential
+"Bahria Town Phase 8, Rawalpindi",2.8 Crore,5,5,7 marla,residential
+"DHA Phase 2, Islamabad",8.85 Crore,5,5,1 kanal,residential
+"Bahria Town - Sector E , Lahore",4.9 Crore,4,4,10 marla,residential
+"DHA Phase 3, Lahore",8.5 Crore,0,0,8.5 marla,commercial
+"Jubilee Town, Lahore",60 Lac,1,1,520 sqft,residential
+"DHA Phase 2, Islamabad",14 Crore,7,7,5 marla,commercial
+"Falcon Complex, Lahore",3.45 Crore,3,3,12 marla,residential
+"DHA Phase 2, Lahore",6.8 Crore,5,5,1 kanal,residential
+"Snober City, Rawalpindi",1.6 Crore,4,4,5 marla,residential
+"Bahria Town - Sector E , Lahore",1.85 Crore,3,4,5 marla,residential
+"Soan Garden, Islamabad",3.2 Crore,4,4,6 marla,residential
+"Jubilee Town, Lahore",50000,0,0,1000 sqft,commercial
+"DHA Homes, Islamabad",1.68 Crore,3,3,8 marla,residential
+"Bahria Town Phase 8, Rawalpindi",3.2 Crore,5,5,7 marla,residential
+"CBR Town, Islamabad",6.5 Crore,6,6,12 marla,residential
+"Bahria Town Phase 8, Rawalpindi",1.15 Crore,0,0,480 sqft,commercial
+"Bahria Town Phase 8, Block Rafi, Rawalpindi",3.8 Crore,4,5,8 marla,residential
+"Bahria Town Phase 8, Block D , Rawalpindi",4.25 Crore,5,6,10 marla,residential
+"DHA Phase 2, Islamabad",2.4 Crore,5,5,5 marla,residential
+"Bahria Town Phase 7, Rawalpindi",4.9 Crore,5,6,10 marla,residential
+"Jubilee Town, Lahore",60 Lac,1,1,520 sqft,residential
+"DHA Phase 3, Islamabad",2.1 Crore,3,4,5 marla,residential
+"Gulberg Greens, Islamabad",2.2 Crore,0,0,337.7 sqft,commercial
+"DHA Phase 6, Lahore",16.5 Crore,4,4,1 kanal,residential
+"DHA Phase 6, Lahore",7.5 Crore,4,4,10 marla,residential
+"Canal Gardens, Lahore",26 Lac,0,0,113 sqft,commercial
+"Adyala Road, Rawalpindi",35 Lac,0,0,63 sqft,commercial
+"Phase 8, Bahria Town, Sector G, Rawalpindi",3.5 Crore,5,6,10 marla,residential
+"Phase 8, Bahria Town, Sector A, , Rawalpindi",4.2 Crore,5,6,10 marla,residential
+"Bahria Town Phase 8, Rawalpindi",2.9 Crore,5,5,7 marla,residential
+"Soan Garden, Islamabad",4.25 Crore,5,6,10 marla,residential
+"Bahria Town Phase 8, Rawalpindi",2.7 Crore,5,5,7 marla,residential
+"Phase 8, Bahria Town, Sector M, Rawalpindi",2.35 Crore,4,5,8 marla,residential
+"LDA Avenue Phase 1, Lahore",1.5 Crore,5,5,3 marla,residential
+"Adyala Road, Rawalpindi",94 Lac,2,2,5 marla,residential
+"E-11/2, Islamabad",5 Crore,4,4,6 marla,residential
+"Bani Gala, Islamabad",2.5 Crore,3,3,5 marla,residential
+"F-6, Islamabad",15 Crore,0,0,900 sqft,commercial
+"Bahria Town Phase 8, Rawalpindi",2.8 Crore,5,5,7 marla,residential
+"Adyala Road, Rawalpindi",85 Lac,0,0,94 sqft,commercial
+"DHA Phase 2, Islamabad",10 Crore,5,5,1 kanal,residential
+"Jubilee Town, Lahore",2.48 Crore,4,4,5 marla,residential
+"Bahria Town Phase 8, Rawalpindi",65 Lac,0,0,561.6 sqft,commercial
+"Bahria Town Phase 8, Block Ali, Rawalpindi",2.65 Crore,4,5,7 marla,residential
+"Bahria Town Phase 8-Khalid Block, Rawalpindi",4.2 Crore,5,6,10 marla,residential
+"DHA Phase 2, Islamabad",8.95 Crore,5,5,1 kanal,residential
+"Multi Garden, B-17, Islamabad",5.1 Crore,6,6,10 marla,residential
+"Gulrez, Rawalpindi",11 Crore,0,0,34 marla,commercial
+"LDA Avenue Phase 1, Lahore",3.25 Crore,5,6,10 marla,residential
+"Bani Gala, Islamabad",3.5 Crore,5,5,10 marla,residential
+"Gulberg, Lahore",1.25 Arab,0,0,100 marla,commercial
+"DHA Phase 2, Islamabad",9 Crore,5,5,1 kanal,residential
+"DHA Phase 2, Islamabad",10.3 Crore,5,5,1 kanal,residential
+"DHA Phase 4, Lahore",4.85 Crore,2,2,1350 sqft,residential
+"E-11, Islamabad",1.08 Crore,0,0,600 sqft,commercial
+"Bahria Town - Sector E , Lahore",1.95 Crore,3,4,5 marla,residential
+"DHA Phase 6, Lahore",10 Lac,0,0,450 sqft,commercial
+"Gulberg Greens, Islamabad",35 Lac,0,0,190 sqft,commercial
+"Jubilee Town, Lahore",80 Lac,2,2,600 sqft,residential
+"New Super Town, Lahore",25 Crore,0,0,12 marla,commercial
+"Bahria Town - Sector D, Lahore",4.9 Crore,4,4,10 marla,residential
+"Bahria Town Phase 8, Rawalpindi",3.8 Crore,5,5,10 marla,residential
+"Jhang Bahtar Road, Islamabad",4 Crore,0,0,1 kanal,commercial
+"DHA Phase 2, Islamabad",9.4 Crore,5,5,1 kanal,residential
+"Bahria Town Phase 8, Rawalpindi",4.1 Crore,5,5,10 marla,residential
+"Bahria Town Phase 8, Rawalpindi",1.85 Crore,0,0,640 sqft,commercial
+"DHA Town Phase 9, Lahore",6.9 Crore,4,5,10 marla,residential
+"DHA Phase 4, Lahore",7.6 Crore,5,5,1 kanal,residential
+"Jubilee Town, Lahore",60 Lac,1,1,520 sqft,residential
+"Johar Town, Lahore",5.2 Crore,5,6,12 marla,residential
+"Faisal Margalla City, Islamabad",47 Lac,0,0,140 sqft,commercial
+"Bahria Town - Sector B, Lahore",1.98 Crore,3,4,5 marla,residential
+"DHA Town Phase 9, Lahore",3.2 Crore,4,5,5 marla,residential
+"Adyala Road, Rawalpindi",2.2 Crore,0,0,261 sqft,commercial
+"Bahria Town Phase 8, Block Rafi, Rawalpindi",1.85 Crore,3,4,5 marla,residential
+"Bani Gala, Islamabad",2.1 Crore,3,3,5 marla,residential
+"Jubilee Town, Lahore",1.45 Crore,5,5,10 marla,residential
+"Bahria Town - Sector E , Lahore",1.5 Crore,0,0,375 sqft,commercial
+"Bahria Enclave, Sector N, Islamabad",4.4 Crore,6,5,10 marla,residential
+"Faisal Margalla City, Islamabad",59 Lac,0,0,170 sqft,commercial
+"College Road, Lahore",28 Crore,0,0,4 kanal,commercial
+"Bahria Town Phase 8, Rawalpindi",1.1 Crore,0,0,480 sqft,commercial
+"Bahria Town Phase 7, Rawalpindi",4.85 Crore,5,6,10 marla,residential
+"Bahria Town - Sector D, Lahore",35000,2,2,5 marla,residential
+"Bahria Town Phase 8, Rawalpindi",50 Lac,0,0,112 sqft,commercial
+"Adyala Road, Rawalpindi",45 Lac,0,0,96.19 sqft,commercial
+"Bahria Town Phase 8, Rawalpindi",2.95 Crore,5,5,7 marla,residential
+"Bahria Town Phase 8, Rawalpindi",50 Lac,0,0,110 sqft,commercial
+"Faisal Margalla City, Islamabad",37 Lac,0,0,140 sqft,commercial
+"Islamabad Expressway, Islamabad",1.47 Crore,0,0,525 sqft,commercial
+"Bahria Town, Lahore",1.98 Crore,0,2,5 marla,commercial
+"Jubilee Town, Lahore",75 Lac,2,2,1000 sqft,residential
+"Bahria Town - Sector E , Lahore",4.95 Crore,4,4,10 marla,residential
+"Bahria Town Phase 8, Sector J, Rawalpindi",3.9 Crore,5,6,10 marla,residential
+"Bahria Town Phase 8, Rawalpindi",1.8 Crore,0,0,518 sqft,commercial
+"Bahria Town Phase 8, Rawalpindi",2.25 Crore,3,3,5 marla,residential
+"Bani Gala, Islamabad",2 Crore,4,4,7.5 marla,residential
+"Bahria Town - Sector C , Lahore",1.9 Crore,4,4,5 marla,residential
+"Snober City, Rawalpindi",1 Crore,2,2,5 marla,residential
+"Defence Villas, Rawalpindi",3.95 Crore,3,4,11 marla,residential
+"G-8 Markaz, Islamabad",65 Crore,0,4,2750 sqft,commercial
+"Bahria Town - Sector E , Lahore",65 Lac,1,1,380 sqft,residential
+"Bahria Town - Sector B, Lahore",1.96 Crore,3,4,5 marla,residential
+"Airport Housing Society, Sector 4, Rawalpindi",1.55 Crore,3,3,5.5 marla,residential
+"Bahria Enclave, Sector A, Islamabad",11.1 Crore,10+,6,4 marla,commercial
+"Bahria Town Phase 8, Rawalpindi",8 Crore,5,5,1 kanal,residential
+"DHA Phase 2, Islamabad",8.5 Crore,5,5,1 kanal,residential
+"Bahria Town Phase 8, Rawalpindi",50 Lac,0,0,254 sqft,commercial
+"Jubilee Town, Lahore",60 Lac,1,1,520 sqft,residential
+"Adyala Road, Rawalpindi",48 Lac,0,0,103.13 sqft,commercial
+"Karim Park, Lahore",90 Lac,0,0,196 sqft,commercial
+"DHA Town Phase 9, Lahore",3.15 Crore,4,5,5 marla,residential
+"Snober City, Rawalpindi",1.5 Crore,4,4,5 marla,residential
+"DHA Town Phase 9, Lahore",2.95 Crore,4,5,5 marla,residential
+"Faisal Margalla City, Islamabad",59 Lac,0,0,158 sqft,commercial
+"Johar Town Phase 2, Lahore",3.38 Crore,0,0,615 sqft,commercial
+"Bahria Town - Sector E , Lahore",32000,2,2,5 marla,residential
+"Bahria Town Phase 8, Rawalpindi",2.9 Crore,5,5,7 marla,residential
+"Bahria Town Phase 8, Rawalpindi",95 Lac,0,0,410 sqft,commercial
+"Adyala Road, Rawalpindi",1.15 Crore,0,0,129 sqft,commercial
+"Faisal Margalla City, Islamabad",40 Lac,0,0,140 sqft,commercial
+"G-8, Islamabad",31 Crore,0,4,2400 sqft,commercial
+"F-7 Markaz, Islamabad",19.5 Crore,0,0,938 sqft,commercial
+"Jinnah Garden Phase 1, Islamabad",3.75 Crore,5,7,8 marla,residential
+"Bahria Town - Sector E , Lahore",1.4 Crore,0,0,400 sqft,commercial
+"DHA Phase 2, Islamabad",8 Crore,5,5,1 kanal,residential
+"Korang Town, Islamabad",30 Crore,0,0,500 sqyd,commercial
+"DHA Phase 3, Islamabad",2 Crore,3,4,5 marla,residential
+"DHA Homes, Islamabad",1.71 Crore,3,3,8 marla,residential
+"Bahria Enclave, Sector A, Islamabad",11.5 Crore,10+,6,4 marla,commercial
+"B-17, Islamabad",60 Lac,0,0,230 sqft,commercial
+"Faisal Margalla City, Islamabad",65 Lac,0,0,230 sqft,commercial
+"Bahria Town Phase 8, Block Rafi, Rawalpindi",1.7 Crore,3,4,5 marla,residential
+"Bahria Town Phase 8, Rawalpindi",3.1 Crore,5,5,7 marla,residential
+"Bahria Town Phase 7, Rawalpindi",30 Lac,0,0,120 sqft,commercial
+"Bahria Town Phase 7, Rawalpindi",4.1 Crore,0,0,1280 sqft,commercial
+"Bahria Town Phase 7, Rawalpindi",9.4 Crore,6,7,20 marla,residential
+"Bahria Town Phase 8, Rawalpindi",50 Lac,0,0,110 sqft,commercial
+"Soan Garden, Islamabad",3.9 Crore,4,5,8.5 marla,residential
+"Bahria Town Phase 8, Block Ali, Rawalpindi",2.7 Crore,4,5,7 marla,residential
+"Phase 8, Bahria Town, Sector N, Rawalpindi",1.55 Crore,3,4,5 marla,residential
+"Bahria Town Phase 8, Rawalpindi",3.2 Crore,5,5,7 marla,residential
+"DHA Phase 2, Lahore",8.3 Crore,4,4,1 kanal,residential
+"I-8, Islamabad",2.5 Crore,0,0,350 sqft,commercial
+"Chatha Bakhtawar, Islamabad",2.1 Crore,4,4,5 marla,residential
+"DHA Phase 2, Islamabad",8.9 Crore,5,5,1 kanal,residential
+"Chauburji Chowk, Lahore",78 Lac,0,0,260 sqft,commercial
+"Bahria Town Phase 8, Rawalpindi",90 Lac,0,0,410 sqft,commercial
+"Bahria Town Phase 8, Rawalpindi",1.1 Crore,0,0,480 sqft,commercial
+"Bahria Town Phase 8, Rawalpindi",68 Lac,0,0,425 sqft,commercial
+"Multan Road, Lahore",15 Crore,8,8,8 kanal,commercial
+"Bahria Town Phase 8, Rawalpindi",3.9 Crore,5,5,10 marla,residential
+"DHA Phase 2, Islamabad",10.25 Crore,5,5,1 kanal,residential
+"Central Park Housing Scheme, Lahore",2.9 Crore,5,6,10 marla,residential
+"LDA Avenue Phase 1, Lahore",3.25 Crore,5,6,10 marla,residential
+"Bahria Town - Sector E , Lahore",1.6 Crore,0,0,400 sqft,commercial
+"Adyala Road, Rawalpindi",85 Lac,0,0,98 sqft,commercial
+"Gulberg 3, Lahore",2.62 Crore,0,0,1750 sqft,commercial
+"H-13, Islamabad",1.1 Crore,2,2,5 marla,residential
+"Township, Lahore",10 Crore,0,2,8 marla,commercial
+"Jubilee Town, Lahore",75 Lac,2,2,1000 sqft,residential
+"Bahria Town Phase 8, Rawalpindi",2.95 Crore,5,5,7 marla,residential
+"Wapda Town Phase 1, Lahore",2.75 Crore,5,5,5 marla,residential
+"DHA Phase 4, Lahore",3.6 Crore,2,2,1020 sqft,residential
+"DHA Phase 3, Lahore",8.5 Crore,0,0,8.5 marla,commercial
+"Bahria Town Phase 8, Rawalpindi",2.1 Crore,3,3,5 marla,residential
+"DHA Phase 2, Islamabad",6.75 Crore,5,5,10 marla,residential
+"D-12/4, Islamabad",4.2 Crore,4,4,4 marla,residential
+"DHA Phase 2, Islamabad",11 Crore,5,5,1 kanal,residential
+"DHA Phase 2, Lahore",9.6 Crore,5,5,1 kanal,residential
+"Faisal Margalla City, Islamabad",45 Lac,0,0,140 sqft,commercial
+"Bahria Town - Sector D, Lahore",1.95 Crore,3,4,5 marla,residential
+"Multan Road, Lahore",7.5 Crore,3,3,24000 sqft,commercial
+"DHA Phase 2, Islamabad",10.25 Crore,5,5,1 kanal,residential
+"Bahria Town Phase 8, Rawalpindi",2.85 Crore,5,5,7 marla,residential
+"Bhara Kahu, Islamabad",80 Lac,2,2,4 marla,residential
+"Bahria Town, Rawalpindi",28 Lac,1,1,450 sqft,residential
+"Snober City, Rawalpindi",1.25 Crore,3,3,5 marla,residential
+"Shehzad Town, Islamabad",4 Crore,5,6,8 marla,residential
+"DHA Phase 2, Lahore",6.7 Crore,5,5,1 kanal,residential
+"DHA Phase 6, Lahore",12.85 Crore,4,4,1 kanal,residential
+"Bahria Town Phase 8, Rawalpindi",65 Lac,0,0,410 sqft,commercial
+"Wapda Town Phase 1, Lahore",2.75 Crore,5,5,5 marla,residential
+"Adyala Road, Rawalpindi",45 Lac,0,0,83 sqft,commercial
