@@ -6,4 +6,4 @@ COLUMNS:
   Property Type: object
 
 TARGET_COLUMN:
-  Price: object
+  name: Price

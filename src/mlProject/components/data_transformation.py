@@ -5,7 +5,7 @@ from sklearn.preprocessing import OneHotEncoder, StandardScaler
 from scipy.stats import boxcox
 from src.mlProject import logger
 from src.mlProject.entity.config_entity import DataTransformationConfig
-
+import os
 
 class DataTransformation:
     def __init__(self, config: DataTransformationConfig):
