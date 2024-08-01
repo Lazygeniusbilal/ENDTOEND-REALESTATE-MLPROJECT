@@ -1,12 +1,13 @@
 import sys
 import os
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(os.path.abspath('__file__')), '..', 'src')))
+from pathlib import Path
 
 # Import constants
 from src.mlProject.constants import CONFIG_FILE_PATH, PARAMS_FILE_PATH, SCHEMA_FILE_PATH
 from src.mlProject.utils.common import read_yaml, create_directories
 from src.mlProject import logger
-from src.mlProject.entity.config_entity import (DataIngestionConfig, DataValidationConfig)
+from src.mlProject.entity.config_entity import (DataIngestionConfig, DataValidationConfig, DataTransformationConfig)
 
 class ConfigurationManager:
     def __init__(self, config_filepath=CONFIG_FILE_PATH, params_filepath=PARAMS_FILE_PATH, schema_filepath=SCHEMA_FILE_PATH):
@@ -67,3 +68,28 @@ class ConfigurationManager:
         )
 
         return data_validation_config
+
+class ConfigurationManager:
+    def __init__(
+        self,
+        config_filepath: Path = Path(CONFIG_FILE_PATH),
+        params_filepath: Path = Path(PARAMS_FILE_PATH),
+        schema_filepath: Path = Path(SCHEMA_FILE_PATH)
+    ):
+        self.config = read_yaml(config_filepath)
+        self.params = read_yaml(params_filepath)
+        self.schema = read_yaml(schema_filepath)
+
+        create_directories([self.config["artifacts_root"]])
+
+    def get_data_transformation_config(self) -> DataTransformationConfig:
+        config = self.config["data_transformation"]
+
+        create_directories([config["root_dir"]])
+
+        data_transformation_config = DataTransformationConfig(
+            root_dir=Path(config["root_dir"]),
+            data_path=Path(config["data_path"])
+        )
+
+        return data_transformation_config
