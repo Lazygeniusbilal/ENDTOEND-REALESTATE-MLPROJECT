@@ -2,6 +2,7 @@ import sys
 import os
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(os.path.abspath('__file__')), '..', 'src')))
 from pathlib import Path
+from box import ConfigBox
 
 # Import constants
 from src.mlProject.constants import CONFIG_FILE_PATH, PARAMS_FILE_PATH, SCHEMA_FILE_PATH
